@@ -1,3 +1,6 @@
+
+# **Hi there**   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"> I'm **OrzMiku**
+
 ```bash
 
 
@@ -10,8 +13,6 @@
 ##      ##        ##              ##            ##  ##  ##        ##              ##    ##        ##    ##      
   ######        ######          ########        ##  ##  ##      ######          ######  ####        ########  
 ```
-
-### **Hi there**   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"> I'm **OrzMiku**
 
 <table>
   <thead>
@@ -79,6 +80,6 @@
 
 ---
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
-
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=OrzMiku&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true" />
+<br>
+<img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
