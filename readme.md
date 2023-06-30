@@ -51,10 +51,9 @@
 
 
 ## 🥼 **My Skills**
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
-![](https://img.shields.io/badge/-C-339933?style=flat-square&logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-C++-4fc08d?style=flat-square&logo=cplusplus&logoColor=fff)
+![Python badge](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![C badge](https://img.shields.io/badge/-C-339933?style=flat-square&logo=C&logoColor=fff)
+![C++ badge](https://img.shields.io/badge/-C++-4fc08d?style=flat-square&logo=cplusplus&logoColor=fff)
 ![C# badge](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=fff)
 ![HTML badge](https://img.shields.io/badge/-HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
 ![Javascript badge](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=000)
