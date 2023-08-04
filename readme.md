@@ -50,7 +50,7 @@
 </table>
 
 
-## 🥼 **My Skills**
+## 🥼 **Learning**
 ![Python badge](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![C badge](https://img.shields.io/badge/-C-339933?style=flat-square&logo=C&logoColor=fff)
 ![C++ badge](https://img.shields.io/badge/-C++-4fc08d?style=flat-square&logo=cplusplus&logoColor=fff)
