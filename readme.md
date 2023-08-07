@@ -37,10 +37,7 @@
       </td>
       <td>
         <ul>
-          <li><a href="https://www.ecy.pink">Blog</a>（Updating）</li>
-          <li><a href="https://miku.show/">MikuShow</a></li>
-          <li><a href="https://mc.ecy.pink">EcyMC Skin Station</a></li>
-          <li><a href="https://share.ecy.pink/">Miku Share</a></li>
+          <li><a href="https://www.ecy.pink">HomePage</a></li>
         </ul>
       </td>
       <td><a href="http://status.ecycloud-node-01.live/">Server Status</a></td>
