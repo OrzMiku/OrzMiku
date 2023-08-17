@@ -14,39 +14,6 @@
   ######        ######          ########        ##  ##  ##      ######          ######  ####        ########  
 ```
 
-<table>
-  <thead>
-    <tr>
-      <th>🏆 I’m currently learning</th>
-      <th>🧲 Links</th>
-      <th>MyServers</th>
-      <th>🐱‍🏍 My goal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li>Python</li>
-          <li>C/C++</li>
-          <li>C#</li>
-          <li>HTML/JS/CSS</li>
-          <li>Vue</li>
-          <li>PHP</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><a href="https://www.ecy.pink">HomePage</a></li>
-        </ul>
-      </td>
-      <td><a href="http://status.ecycloud-node-01.live/">Server Status</a></td>
-      <td>Juan Si Ni Men</td>
-    </tr>
-  </tbody>
-</table>
-
-
 ## 🥼 **Learning**
 ![Python badge](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![C badge](https://img.shields.io/badge/-C-339933?style=flat-square&logo=C&logoColor=fff)
@@ -75,6 +42,9 @@
 
 
 ---
-<img width="420" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrzMiku&layout=compact&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true" />
-<img width="420" align="left" src="https://github-readme-stats.vercel.app/api?username=OrzMiku&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
+<div align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrzMiku&layout=compact&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=OrzMiku&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true" />
+  <img src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
+</div>
+
