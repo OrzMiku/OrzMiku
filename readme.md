@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://www.miku.show/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World!%22);求知若渴，虚心若愚。&center=true&size=26" alt="Typing SVG" />
+  </a>
+</div>
 
 # **Hi there**   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"> I'm **OrzMiku**
 
