@@ -43,8 +43,8 @@
 
 ---
 <div align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrzMiku&layout=compact&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=OrzMiku&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrzMiku&layout=compact&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true&&locale=cn&hide_title=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OrzMiku&bg_color=30,39c5bb,52d9d1&title_color=fff&text_color=fff&hide_border=true&&locale=cn&hide_title=true" />
   <img src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
 </div>
 
