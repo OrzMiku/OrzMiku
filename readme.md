@@ -8,8 +8,8 @@
 - 📚 在业余时间，我喜欢享受生活的各种乐趣，无论是美食、旅行、娱乐还是其他各式各样的活动。
 
 ## 我的作品
-- **EcyMC整合包** - 一个独特的 Minecraft 原版整合包，让你的游戏体验更上一层楼。 [点击这里查看](https://modrinth.com/modpack/ecymc/)
-- **Hatsune Miku皮肤** - 为 Minecraft 设计的Hatsune Miku皮肤。 [点击这里查看](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1423425&page=25#pid29312474)
+- [**EcyMC整合包**](https://modrinth.com/modpack/ecymc/) - 一个独特的 Minecraft 原版整合包，让你的游戏体验更上一层楼。 
+- [**Hatsune Miku皮肤**](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1423425&page=25#pid29312474) - 为 Minecraft 设计的Hatsune Miku皮肤。 
 
 ## 更多关于我
 - 🌐 个人博客：[miku.show](https://miku.show)
