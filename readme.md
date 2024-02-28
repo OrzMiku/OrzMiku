@@ -9,11 +9,9 @@
 
 ## 我的作品
 - [**Taichi整合包**](https://modrinth.com/modpack/taichi/) - 一个独特的 Minecraft 原版整合包，让你的游戏体验更上一层楼。 
-- [**Hatsune Miku皮肤**](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1423425&page=25#pid29312474) - 为 Minecraft 设计的Hatsune Miku皮肤。 
 
 ## 更多关于我
-- 🌐 个人博客：[miku.show](https://miku.show)
-- 🌐 个人主页：[ecy.pink](https://ecy.pink)
+- 🌐 个人主页：[ecy.pink](https://ecy.pink) or [miku.show](https://miku.show)
 
 ## 联系方式
 - 📧 邮箱：miku@ecy.pink
