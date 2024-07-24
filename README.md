@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm OrzMiku</h1>
 <h3 align="center">A passionate program beginner from China.</h3>
-<table align="center">
-  <tr>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.api.391314.xyz/api?username=orzmiku&count_private=true&show_icons=true&hide_border=true"
-      />
-    </td>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.api.391314.xyz/api/top-langs/?username=orzmiku&count_private=true&hide=hack&layout=compact&hide_border=true"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.api.391314.xyz/api?username=orzmiku&count_private=true&show_icons=true&hide_border=true"
+    />
+  <img
+    align="center"
+    src="https://github-readme-stats.api.391314.xyz/api/top-langs/?username=orzmiku&count_private=true&hide=hack&layout=compact&hide_border=true"
+  />
+</div>
 <table align="center">
   <tr>
     <td>
