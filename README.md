@@ -3,10 +3,12 @@
 <div align="center">
   <img
     align="center"
+    alt="status"
     src="https://github-readme-stats.api.391314.xyz/api?username=orzmiku&count_private=true&show_icons=true&hide_border=true&exclude_repo=github-readme-stats,Cooking-in-Skyland"
     />
   <img
     align="center"
+    alt="top languages"
     src="https://github-readme-stats.api.391314.xyz/api/top-langs/?username=orzmiku&count_private=true&hide=hack&layout=compact&hide_border=true&exclude_repo=github-readme-stats,Cooking-in-Skyland"
   />
 </div>
@@ -88,3 +90,10 @@
     </td>
   </tr>
 </table>
+<div align="center">
+  <img 
+    src="https://ipfs.crossbell.io/ipfs/QmTPpHrtEbMbb5VPrTVtdN3vZMhJAveEE578rq8GoRRXmy"
+    alt="school"
+    width="466px"
+  />
+</div>
