@@ -4,7 +4,7 @@
   <img
     align="center"
     alt="status"
-    src="https://github-readme-stats.api.391314.xyz/api?username=orzmiku&count_private=true&show_icons=true&hide_border=true&exclude_repo=github-readme-stats,Cooking-in-Skyland"
+    src="https://github-readme-stats.api.391314.xyz/api?username=orzmiku&count_private=true&show_icons=true&hide_border=true&exclude_repo=github-readme-stats,Cooking-in-Skyland,ohmyfish"
     />
   <img
     align="center"
