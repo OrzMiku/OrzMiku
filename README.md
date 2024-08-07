@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OrzMiku</h1>
-<h3 align="center">A passionate program beginner from China.</h3>
+<h3 align="center">A passionate programing beginner from China.</h3>
 <div align="center">
   <img
     align="center"
