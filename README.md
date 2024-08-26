@@ -9,7 +9,7 @@
   <img
     align="center"
     alt="top languages"
-    src="https://github-readme-stats.api.391314.xyz/api/top-langs/?username=orzmiku&count_private=true&hide=hack&layout=compact&hide_border=true&exclude_repo=github-readme-stats,Cooking-in-Skyland,ohmyfish"
+    src="https://github-readme-stats.api.391314.xyz/api/top-langs/?username=orzmiku&count_private=true&hide=hack&layout=compact&hide_border=true&exclude_repo=github-readme-stats,ohmyfish,my-blog"
   />
 </div>
 <table align="center">
