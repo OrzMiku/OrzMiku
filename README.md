@@ -100,7 +100,7 @@
 </table>
 <div align="center">
   <img 
-    src="https://ipfs.crossbell.io/ipfs/QmTPpHrtEbMbb5VPrTVtdN3vZMhJAveEE578rq8GoRRXmy"
+    src="https://image.dooo.ng/c/2024/09/18/66ead63678174.webp"
     alt="school"
     width="466px"
   />
