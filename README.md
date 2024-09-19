@@ -3,7 +3,7 @@
 
 ## Quick Links
 
-- [Photon Shader zh_cn translation](https://github.com/OrzMiku/Minecraft-Shaders-zh_CN-Lang-Files/tree/photon-updates)
+- [My Blog](https://miku.show)
 - [OptiFabric build artifacts (KaiAF Edition)](https://github.com/OrzMiku/OptiFabric/actions)
 - [Spigot build artifacts](https://github.com/OrzMiku/SpigotBuildAction/actions)
 - [LunarFox Modpack](https://modrinth.com/modpack/lunarfox)
