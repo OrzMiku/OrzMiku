@@ -8,7 +8,7 @@
 - [Spigot build artifacts](https://github.com/OrzMiku/SpigotBuildAction/actions)
 - [LunarFox Modpack](https://modrinth.com/modpack/lunarfox)
 
-<div align="center">
+<!--div align="center">
   <img
     align="center"
     alt="status"
@@ -19,7 +19,7 @@
     alt="top languages"
     src="https://github-readme-stats.api.391314.xyz/api/top-langs/?username=orzmiku&count_private=true&hide=hack&layout=compact&hide_border=true&exclude_repo=github-readme-stats,ohmyfish,my-blog"
   />
-</div>
+</div-->
 <table align="center">
   <tr>
     <td>
