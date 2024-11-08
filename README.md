@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 This is OrzMiku
 
-<!--
-**OrzMiku/OrzMiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate programming beginner from China.
 
-Here are some ideas to get you started:
+### 📊 Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <table>
+    <tr>
+      <td>
+        <a href="https://github-readme-stats.vercel.app/api?username=OrzMiku">
+          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=OrzMiku" alt="OrzMiku's GitHub Stats">
+        </a>
+      </td>
+      <td>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs?username=OrzMiku&layout=compact&langs_count=8&card_width=320">
+          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OrzMiku&layout=compact&langs_count=8&card_width=320" alt="OrzMiku's Top Languages">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+### 💻 Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,tailwindcss,react,vue,astro&theme=light)](https://skillicons.dev)
+
+### 🛠️ Tools
+
+[![Tools](https://skillicons.dev/icons?i=vscode,cmake,npm,mysql,docker,git,github,vercel&theme=light)](https://skillicons.dev)
