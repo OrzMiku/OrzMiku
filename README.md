@@ -4,20 +4,8 @@ A passionate programming beginner from China.
 
 ### 📊 Stats
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github-readme-stats.vercel.app/api?username=OrzMiku">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=OrzMiku" alt="OrzMiku's GitHub Stats">
-        </a>
-      </td>
-      <td>
-        <a href="https://github-readme-stats.vercel.app/api/top-langs?username=OrzMiku&layout=compact&langs_count=8&card_width=320">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OrzMiku&layout=compact&langs_count=8&card_width=320" alt="OrzMiku's Top Languages">
-        </a>
-      </td>
-    </tr>
-  </table>
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=OrzMiku" alt="OrzMiku's GitHub Stats">
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OrzMiku&layout=compact&langs_count=8&card_width=320" alt="OrzMiku's Top Languages">
 
 ### 💻 Tech Stack
 
