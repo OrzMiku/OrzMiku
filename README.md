@@ -13,4 +13,4 @@ A passionate programming beginner from China.
 
 ### 🛠️ Tools
 
-[![Tools](https://skillicons.dev/icons?i=vscode,cmake,npm,mysql,docker,git,github,vercel&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,cmake,npm,pnpm,mysql,docker,git,github,vercel&theme=light)](https://skillicons.dev)
