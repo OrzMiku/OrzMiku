@@ -9,7 +9,7 @@ A passionate programming beginner from China.
 
 ### 💻 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,tailwindcss,react,vue,astro&theme=light)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,ts,html,css,tailwindcss,react,vue,astro&theme=light)](https://skillicons.dev)
 
 ### 🛠️ Tools
 
