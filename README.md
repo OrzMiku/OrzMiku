@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 This is OrzMiku
 
-<!--
-**OrzMiku/OrzMiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate programming beginner from China.
 
-Here are some ideas to get you started:
+### 📊 Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![OrzMiku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OrzMiku)
+![OrzMiku's Top Languages](https://wakatime.com/share/@OrzMiku/3d2ab242-ced9-40a2-9514-2c88722160d1.png)
+
+### 💻 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=rust,c,cpp,java,kotlin,js,ts,html,css,tailwindcss,react,vue,astro&theme=light)
+
+### 🛠️ Tools
+
+![Tools](https://skillicons.dev/icons?i=vscode,idea,cmake,npm,pnpm,mysql,docker,git,github,vercel&theme=light)
